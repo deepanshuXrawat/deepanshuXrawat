@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deeepanshurawat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeepanshurawat) [![X.com](https://img.shields.io/badge/X.com-%23000000.svg?logo=x&logoColor=white)]([https://x.com/your_x_handle](https://x.com/RawatDeeepanshu)) [![Chess.com](https://img.shields.io/badge/Chess.com-%234F7838.svg?logo=chess.com&logoColor=white)](https://www.chess.com/member/deeepanshurawat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deeepanshurawat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeepanshurawat) [![X.com](https://img.shields.io/badge/X.com-%23000000.svg?logo=x&logoColor=white)]((https://x.com/RawatDeeepanshu)) [![Chess.com](https://img.shields.io/badge/Chess.com-%234F7838.svg?logo=chess.com&logoColor=white)](https://www.chess.com/member/deeepanshurawat)
 
 
 # 💻 Tech Stack:
